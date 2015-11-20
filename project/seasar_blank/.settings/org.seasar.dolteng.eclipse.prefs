@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/seasar_blank/src/main/resources
+DefaultRootPackage=net.tomehachi.seasar_blank
+DefaultSrcPath=/seasar_blank/src/main/java
+ServletPath=seasar_blank
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
